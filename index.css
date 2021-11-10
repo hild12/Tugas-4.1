@@ -1,0 +1,67 @@
+.header {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: rgb(255, 174, 127);
+}
+
+.kotak {
+    margin-left: 50px;
+}
+
+.chart {
+    float: right;
+    margin-top: -62px;
+    margin-right: 70px;
+}
+
+.sitename {
+    margin-left: -20px;
+}
+
+.ceklis {
+    display: flex;
+    margin-left: 70px;
+    margin-top: 100px;
+}
+
+.confir {
+    margin-left: 70px;
+}
+
+.section {
+    display: flex;
+}
+
+.info {
+    margin-top: 70px;
+}
+
+.billing {
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.ending {
+    margin-left: 40px;
+    margin-top: -25px;
+}
+
+hr {
+    width: 700px;
+    margin-left: 30px;
+}
+
+.summary {
+    width: 300px;
+    margin-left: 30px;
+}
+
+.total {
+    float: right;
+    margin-top: -570px;
+    margin-right: 200px;
+}
